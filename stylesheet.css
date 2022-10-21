@@ -85,7 +85,8 @@ a {
 
 .twitter {
   padding-left: 30px;
-  background-color : #55acee;
+/*   background-color : #55acee; */
+  background-color : red;
   opacity: 0.8;
 }
 
